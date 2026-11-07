@@ -1,0 +1,785 @@
+{
+  "id": "usb-c-audio-under-40",
+  "title": "USB-C audio under $40",
+  "summary": "Native USB-C wired earbuds only. Six Amazon offers verified on November 7, 2026. Item prices under $40; shipping and tax unknown. No adapter, Bluetooth or charging-only USB-C.",
+  "layout": "natural-basics",
+  "catalog": true,
+  "defaultSort": "price",
+  "updated": "2026-11-07T11:25:55-05:00",
+  "recommendation": {
+    "title": "Choose by sound and fit",
+    "text": "Quark2 for straightforward balanced listening; Bunny DSP for customizable over-ear sound; Chu II DSP as the balanced, replaceable-cable alternative.",
+    "test": "Conditional shortlist, not a sonic league table. All six are under $40 before shipping/tax. Price order below is not a sound ranking."
+  },
+  "evidenceNote": "Research synthesis, not hands-on testing. Independent exact-variant reviews are separated from retailer claims and owner anecdotes. Fit and seal change bass; coupler treble is not an exact prediction of your ears. No controlled blind head-to-head ranking.",
+  "caveat": "Six threads across r/HeadphoneAdvice, r/iems, r/inearfidelity and r/headphones were read. Sidebar/wiki bodies were inaccessible, not read. External Crinacle methodology and graph explanations were read; plotted images were not visually analyzed. No Reddit consensus claimed.",
+  "products": [
+    {
+      "id": "b0dblq4dbd",
+      "selectedASIN": "B0DBLQ4DBD",
+      "name": "Moondrop Quark2",
+      "url": "https://www.amazon.com/dp/B0DBLQ4DBD",
+      "store": "Amazon · LEAUDIO",
+      "color": "Gray",
+      "unitPriceUSD": 19.99,
+      "priceLabel": "$19.99",
+      "verdict": "Straightforward balanced pick",
+      "category": "Bullet fit",
+      "summary": "Sub-bass lift, clean vocals; upper mids/treble depend on fit.",
+      "facts": {
+        "Sound": "Sub-bass lift, clean vocals; upper mids/treble depend on fit.",
+        "Fit": "Small straight shell; fixed cable. Seal can be difficult.",
+        "Tuning / app": "Fixed DSP; playback without app. 2024 reviews found no Link EQ support.",
+        "Risk": "Two Reddit owners reported low volume; one disliked fit. Not a failure rate.",
+        "Status": "In Stock",
+        "Variant": "Gray",
+        "Independent sound detail": "Harman-like sub-bass lift, restrained mid-bass, clean rather than thick. TPU hears slightly less sub-bass and less mid-bass tuck than strict Harman; tight/controlled for price, not a layering standout. Prominent clean vocals; TPU finds reduced ear gain avoids shout, Ichos finds upper mids can be sharp/hot. Fit-sensitive. TPU content with extension; Ichos bright/detailed yet smooth; Pragmatic dark beyond 6 kHz after foam/deep-fit workaround. Do not label universally dark or fatigue-free. Good tonality/value; limited fine detail, dynamics, imaging versus pricier sets. No defensible universal superiority over Chu/One.",
+        "Fit evidence": "Tiny bullet shell, ~4.5 g per side and 6.15 mm nozzle end measured by TPU. TPU comfortable with M stock tips; Pragmatic could not seal stock tips and wife had slippage. Seal controls bass and passive isolation; Ichos reports good passive isolation.",
+        "App evidence": "Fixed onboard DSP; plays without app; no Moondrop Link EQ support in 2024 reviews. Phone/computer software EQ is optional and not portable onboard tuning.",
+        "Noise evidence": "TPU reports no background hiss on Quark2, contrasting older Quarks DSP/Dusk problems. This is a sample report, not guarantee on every host; do not inherit old Quarks DSP hiss reports. Cable microphonics possible; clip helps.",
+        "Durability evidence": "Fixed cable non-replaceable; cheap/tangly cable and plastic controller/plug are weak points. Ichos doubts durability feel; no controlled long-term failure-rate evidence."
+      },
+      "images": [
+        {
+          "src": "assets/images/b0dblq4dbd-01.jpg",
+          "alt": "Moondrop Quark2 · retailer slide 1. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/51qp0FvYpDL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0dblq4dbd-02.jpg",
+          "alt": "Moondrop Quark2 · retailer slide 2. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/41eWQNTIDDL._AC_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0dblq4dbd-03.jpg",
+          "alt": "Moondrop Quark2 · retailer slide 3. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/61zFWBcuyTL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0dblq4dbd-04.jpg",
+          "alt": "Moondrop Quark2 · retailer slide 4. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/611wQdIkaCL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0dblq4dbd-05.jpg",
+          "alt": "Moondrop Quark2 · retailer slide 5. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/61KiJ4KZjrL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0dblq4dbd-06.jpg",
+          "alt": "Moondrop Quark2 · retailer slide 6. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/51gA0gD7PHL._AC_SL1289_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0dblq4dbd-07.jpg",
+          "alt": "Moondrop Quark2 · retailer slide 7. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/514Y-CvYuIL._AC_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0dblq4dbd-08.jpg",
+          "alt": "Moondrop Quark2 · retailer slide 8. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/614ITHYgp8L._AC_SL1303_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        }
+      ],
+      "image": "assets/images/b0dblq4dbd-01.jpg",
+      "imageAlt": "Moondrop Quark2 · retailer slide 1. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+      "imageNote": "All exposed exact-ASIN stills retained except unrelated JBL category diagram and blue-color slide. Shared analog/USB-C diagrams do not mean both cables are included. ",
+      "sources": [
+        "offer-B0DBLQ4DBD",
+        "quark_tpu",
+        "quark_ichos",
+        "quark_pragmatic",
+        "expansion-community-2-0"
+      ],
+      "integrityRank": 0,
+      "naturalPercent": null
+    },
+    {
+      "id": "b0dtttf2kx",
+      "selectedASIN": "B0DTTTF2KX",
+      "name": "Tanchjim Zero Ultima — USB Type-C",
+      "url": "https://www.amazon.com/dp/B0DTTTF2KX",
+      "store": "Amazon · TANCHJIM",
+      "color": "Silver",
+      "unitPriceUSD": 21.99,
+      "priceLabel": "$21.99",
+      "verdict": "Eligible, sound evidence limited",
+      "category": "Bullet fit",
+      "summary": "No sufficiently verified exact-USB-C independent listening verdict.",
+      "facts": {
+        "Sound": "No sufficiently verified exact-USB-C independent listening verdict.",
+        "Fit": "Small bullet shell; independent exact-DSP fit evidence not read.",
+        "Tuning / app": "DSP variant confirmed; app adjustability not independently exercised.",
+        "Risk": "Do not transfer the analog/unclear-termination Zero Ultima review.",
+        "Status": "In Stock",
+        "Variant": "Silver",
+        "Independent sound detail": "Exact-DSP video review discovered https://www.youtube.com/watch?v=DOkJzMGXggo (Feb 23 2025), but not watched/transcribed. Head-Fi exact-DSP reviews 403. Accessible No Borders review does not establish USB-C termination; do NOT use its warm-neutral vocal-centric verdict as USB-C evidence.",
+        "Fit evidence": "Bullet model; exact-DSP independent fit/isolation evidence not read.",
+        "App evidence": "DSP app adjustability stated in video description only; not independently exercised.",
+        "Noise evidence": "Unknown.",
+        "Durability evidence": "Unknown exact-DSP longevity."
+      },
+      "images": [
+        {
+          "src": "assets/images/b0dtttf2kx-01.jpg",
+          "alt": "Tanchjim Zero Ultima — USB Type-C · retailer slide 1. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/51cRtSvCJML._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0dtttf2kx-02.jpg",
+          "alt": "Tanchjim Zero Ultima — USB Type-C · retailer slide 2. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/61mk5flXIXL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0dtttf2kx-03.jpg",
+          "alt": "Tanchjim Zero Ultima — USB Type-C · retailer slide 3. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/614SHXsFavL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0dtttf2kx-04.jpg",
+          "alt": "Tanchjim Zero Ultima — USB Type-C · retailer slide 4. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/61xVEOocIHL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0dtttf2kx-05.jpg",
+          "alt": "Tanchjim Zero Ultima — USB Type-C · retailer slide 5. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/61w7g8EZB8L._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0dtttf2kx-06.jpg",
+          "alt": "Tanchjim Zero Ultima — USB Type-C · retailer slide 6. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/61Px8cXT-BL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0dtttf2kx-07.jpg",
+          "alt": "Tanchjim Zero Ultima — USB Type-C · retailer slide 7. Shared compatibility graphic depicts both separate 3.5mm and USB-C variants; selected SKU is USB-C.",
+          "sourceURL": "https://m.media-amazon.com/images/I/61ui5UcElLL._AC_SL1500_.jpg",
+          "note": "Shared compatibility graphic depicts both separate 3.5mm and USB-C variants; selected SKU is USB-C."
+        },
+        {
+          "src": "assets/images/b0dtttf2kx-08.jpg",
+          "alt": "Tanchjim Zero Ultima — USB Type-C · retailer slide 8. Packaging update notice.",
+          "sourceURL": "https://m.media-amazon.com/images/I/71OtAN1LfUL._AC_SL1500_.jpg",
+          "note": "Packaging update notice."
+        }
+      ],
+      "image": "assets/images/b0dtttf2kx-01.jpg",
+      "imageAlt": "Tanchjim Zero Ultima — USB Type-C · retailer slide 1. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+      "imageNote": "All exposed exact-ASIN stills retained except unrelated JBL category diagram and blue-color slide. Shared analog/USB-C diagrams do not mean both cables are included. Slide 7: Shared compatibility graphic depicts both separate 3.5mm and USB-C variants; selected SKU is USB-C. Slide 8: Packaging update notice.",
+      "sources": [
+        "offer-B0DTTTF2KX",
+        "ultima_analog_unclear"
+      ],
+      "integrityRank": 0,
+      "naturalPercent": null
+    },
+    {
+      "id": "b0dryyksdk",
+      "selectedASIN": "B0DRYYKSDK",
+      "name": "Tanchjim Bunny — DSP Type C",
+      "url": "https://www.amazon.com/dp/B0DRYYKSDK",
+      "store": "Amazon · TANCHJIM",
+      "color": "DSP Type C (retailer color label; clear shell)",
+      "unitPriceUSD": 23.99,
+      "priceLabel": "$23.99",
+      "verdict": "Customizable sound pick",
+      "category": "Over-ear fit",
+      "summary": "Reviewed default: rich controlled bass, natural vocals, extended treble.",
+      "facts": {
+        "Sound": "Reviewed default: rich controlled bass, natural vocals, extended treble.",
+        "Fit": "Over-ear shell; detachable 2-pin cable.",
+        "Tuning / app": "Default works without app; 2025 review measured four presets and 5-band EQ. Current platform support not tested.",
+        "Risk": "Original Bunny DSP, not Bunny G. One purchased-unit review; no targeted hiss test.",
+        "Status": "In Stock",
+        "Variant": "DSP Type C (retailer color label; clear shell)",
+        "Independent sound detail": "Reviewed default rich, controlled, satisfying weight without muddy bloom. Clear/natural vocal body in default listening. More extension than One in reviewer comparison, detailed without fatigue for him; not same as Bunny G. Exact DSP response/preset measurements and low distortion make this a serious newer contender; reviewer reports improved fit versus One.",
+        "Fit evidence": "Refined comfortable over-ear form; no isolation attenuation curve.",
+        "App evidence": "5-band EQ and 4 presets per 2025 review; devicePEQ extension support reported by its author. Default playback standalone.",
+        "Noise evidence": "No targeted hiss evidence retrieved.",
+        "Durability evidence": "Detachable 2-pin cable, reviewer found flexible cable resists tangling; months of use not population reliability proof."
+      },
+      "images": [
+        {
+          "src": "assets/images/b0dryyksdk-01.jpg",
+          "alt": "Tanchjim Bunny — DSP Type C · retailer slide 1. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/71Mj0tgYXJL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0dryyksdk-02.jpg",
+          "alt": "Tanchjim Bunny — DSP Type C · retailer slide 2. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/61-kAbx0ndL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0dryyksdk-03.jpg",
+          "alt": "Tanchjim Bunny — DSP Type C · retailer slide 3. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/61ubEd-JroL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0dryyksdk-04.jpg",
+          "alt": "Tanchjim Bunny — DSP Type C · retailer slide 4. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/61T3YaWRU4L._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0dryyksdk-05.jpg",
+          "alt": "Tanchjim Bunny — DSP Type C · retailer slide 5. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/61+4JsZ4qxL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0dryyksdk-06.jpg",
+          "alt": "Tanchjim Bunny — DSP Type C · retailer slide 6. Shared compatibility graphic depicts separate analog and USB-C variants; selected SKU is DSP USB-C.",
+          "sourceURL": "https://m.media-amazon.com/images/I/61C8-TT-vSL._AC_SL1500_.jpg",
+          "note": "Shared compatibility graphic depicts separate analog and USB-C variants; selected SKU is DSP USB-C."
+        },
+        {
+          "src": "assets/images/b0dryyksdk-07.jpg",
+          "alt": "Tanchjim Bunny — DSP Type C · retailer slide 7. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/61CQ3jgRCsL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0dryyksdk-08.jpg",
+          "alt": "Tanchjim Bunny — DSP Type C · retailer slide 8. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/71X8gUnK9pL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0dryyksdk-09.jpg",
+          "alt": "Tanchjim Bunny — DSP Type C · retailer slide 9. Packaging update notice.",
+          "sourceURL": "https://m.media-amazon.com/images/I/71OtAN1LfUL._AC_SL1500_.jpg",
+          "note": "Packaging update notice."
+        }
+      ],
+      "image": "assets/images/b0dryyksdk-01.jpg",
+      "imageAlt": "Tanchjim Bunny — DSP Type C · retailer slide 1. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+      "imageNote": "All exposed exact-ASIN stills retained except unrelated JBL category diagram and blue-color slide. Shared analog/USB-C diagrams do not mean both cables are included. Slide 6: Shared compatibility graphic depicts separate analog and USB-C variants; selected SKU is DSP USB-C. Slide 9: Packaging update notice.",
+      "sources": [
+        "offer-B0DRYYKSDK",
+        "bunny_pragmatic"
+      ],
+      "integrityRank": 0,
+      "naturalPercent": null
+    },
+    {
+      "id": "b0ct9pyxgy",
+      "selectedASIN": "B0CT9PYXGY",
+      "name": "JBL Tune 310C USB-C",
+      "url": "https://www.amazon.com/dp/B0CT9PYXGY",
+      "store": "Amazon · Amazon.com",
+      "color": "Black",
+      "unitPriceUSD": 24.95,
+      "priceLabel": "$24.95",
+      "verdict": "Mainstream alternative, unranked",
+      "category": "Cable-down fit",
+      "summary": "JBL advertises Pure Bass; no comparable independent exact-model sound evidence read.",
+      "facts": {
+        "Sound": "JBL advertises Pure Bass; no comparable independent exact-model sound evidence read.",
+        "Fit": "Cable-down silicone-tip design; fixed cable.",
+        "Tuning / app": "Inline EQ control advertised; no app required for ordinary playback.",
+        "Risk": "Manufacturer sound claims are not independent tests. No demonstrated sound-first advantage.",
+        "Status": "In Stock",
+        "Variant": "Black"
+      },
+      "images": [
+        {
+          "src": "assets/images/b0ct9pyxgy-01.jpg",
+          "alt": "JBL Tune 310C USB-C · retailer slide 1. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/51dE54qLvzL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0ct9pyxgy-02.jpg",
+          "alt": "JBL Tune 310C USB-C · retailer slide 2. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/715Zf00yqpL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0ct9pyxgy-04.jpg",
+          "alt": "JBL Tune 310C USB-C · retailer slide 4. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/51heDsWyHHL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0ct9pyxgy-05.jpg",
+          "alt": "JBL Tune 310C USB-C · retailer slide 5. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/51vrAuUMaYL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0ct9pyxgy-06.jpg",
+          "alt": "JBL Tune 310C USB-C · retailer slide 6. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/819xjEZ9kNL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0ct9pyxgy-07.jpg",
+          "alt": "JBL Tune 310C USB-C · retailer slide 7. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/81BS0Hr8DNL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0ct9pyxgy-08.jpg",
+          "alt": "JBL Tune 310C USB-C · retailer slide 8. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/71u3K9BbTTL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        }
+      ],
+      "image": "assets/images/b0ct9pyxgy-01.jpg",
+      "imageAlt": "JBL Tune 310C USB-C · retailer slide 1. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+      "imageNote": "All exposed exact-ASIN stills retained except unrelated JBL category diagram and blue-color slide. Shared analog/USB-C diagrams do not mean both cables are included. Slide 3: Generic headphone-fit category diagram, not product-specific; excluded from board gallery. Slide 9: Blue variant shown on black SKU gallery; excluded from board gallery.",
+      "sources": [
+        "offer-B0CT9PYXGY"
+      ],
+      "integrityRank": 0,
+      "naturalPercent": null
+    },
+    {
+      "id": "b0bqvlyhx7",
+      "selectedASIN": "B0BQVLYHX7",
+      "name": "7Hz Salnotes Zero — With Mic, Type C",
+      "url": "https://www.amazon.com/dp/B0BQVLYHX7",
+      "store": "Amazon · Linsoul Audio",
+      "color": "White",
+      "unitPriceUSD": 25.99,
+      "priceLabel": "$25.99",
+      "verdict": "Eligible, hiss caution",
+      "category": "Over-ear fit",
+      "summary": "One USB-C owner found sound ordinary and distracting background hiss.",
+      "facts": {
+        "Sound": "One USB-C owner found sound ordinary and distracting background hiss.",
+        "Fit": "Over-ear; detachable cable. Owner preferred fit to original Quarks DSP.",
+        "Tuning / app": "Native Type-C cable included; user-programmable onboard EQ not established.",
+        "Risk": "One 2023 anecdote, not prevalence. Original Zero, not Zero:2; comparison was NOT Quark2.",
+        "Status": "Only 18 left in stock",
+        "Variant": "White",
+        "Independent sound detail": "Insufficient credible independent exact USB-C measurement/listening evidence located. Neutral-bright analog Zero reputation is a hypothesis, NOT verified USB-C response. Do not transplant Zero:2 sound or analog SoundGuys/Headphonesty tests.",
+        "Fit evidence": "Detachable over-ear cable/shell confirmed by product page; no USB-C-specific independent fit test retrieved.",
+        "App evidence": "Native USB-C included; onboard DSP user control not established.",
+        "Noise evidence": "Community exact-USB-C owner review reports playback hiss. The separate retailer microphone-static summary is not playback-hiss evidence.",
+        "Durability evidence": "Detachable cable helps repairability. Mixed-version owner reports cannot establish USB-C failure rate."
+      },
+      "images": [
+        {
+          "src": "assets/images/b0bqvlyhx7-01.jpg",
+          "alt": "7Hz Salnotes Zero — With Mic, Type C · retailer slide 1. Full-resolution visual check confirms USB-C plug, not 3.5mm.",
+          "sourceURL": "https://m.media-amazon.com/images/I/71OiQLTl9nL._AC_SL1500_.jpg",
+          "note": "Full-resolution visual check confirms USB-C plug, not 3.5mm."
+        },
+        {
+          "src": "assets/images/b0bqvlyhx7-02.jpg",
+          "alt": "7Hz Salnotes Zero — With Mic, Type C · retailer slide 2. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/61jGm4CzhML._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0bqvlyhx7-03.jpg",
+          "alt": "7Hz Salnotes Zero — With Mic, Type C · retailer slide 3. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/61PyNR36y2L._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0bqvlyhx7-04.jpg",
+          "alt": "7Hz Salnotes Zero — With Mic, Type C · retailer slide 4. Full-resolution visual check confirms USB-C plug, not 3.5mm.",
+          "sourceURL": "https://m.media-amazon.com/images/I/61dqb2BVf3L._AC_SL1500_.jpg",
+          "note": "Full-resolution visual check confirms USB-C plug, not 3.5mm."
+        },
+        {
+          "src": "assets/images/b0bqvlyhx7-05.jpg",
+          "alt": "7Hz Salnotes Zero — With Mic, Type C · retailer slide 5. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/51rcSkEDzAL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0bqvlyhx7-06.jpg",
+          "alt": "7Hz Salnotes Zero — With Mic, Type C · retailer slide 6. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/61H5uGvPL9L._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0bqvlyhx7-07.jpg",
+          "alt": "7Hz Salnotes Zero — With Mic, Type C · retailer slide 7. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/81sapNBxkyL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0bqvlyhx7-08.jpg",
+          "alt": "7Hz Salnotes Zero — With Mic, Type C · retailer slide 8. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/91FJzo0lbQL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0bqvlyhx7-09.jpg",
+          "alt": "7Hz Salnotes Zero — With Mic, Type C · retailer slide 9. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/61QDqc4QwaL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0bqvlyhx7-10.jpg",
+          "alt": "7Hz Salnotes Zero — With Mic, Type C · retailer slide 10. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/81L0iNbJbyL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        }
+      ],
+      "image": "assets/images/b0bqvlyhx7-01.jpg",
+      "imageAlt": "7Hz Salnotes Zero — With Mic, Type C · retailer slide 1. Full-resolution visual check confirms USB-C plug, not 3.5mm.",
+      "imageNote": "All exposed exact-ASIN stills retained except unrelated JBL category diagram and blue-color slide. Shared analog/USB-C diagrams do not mean both cables are included. Slide 1: Full-resolution visual check confirms USB-C plug, not 3.5mm. Slide 4: Full-resolution visual check confirms USB-C plug, not 3.5mm.",
+      "sources": [
+        "offer-B0BQVLYHX7",
+        "expansion-community-3-0"
+      ],
+      "integrityRank": 0,
+      "naturalPercent": null
+    },
+    {
+      "id": "b0crp76pvm",
+      "selectedASIN": "B0CRP76PVM",
+      "name": "Moondrop CHU II DSP",
+      "url": "https://www.amazon.com/dp/B0CRP76PVM",
+      "store": "Amazon · SHENZHENAUDIO",
+      "color": "Black",
+      "unitPriceUSD": 27.99,
+      "priceLabel": "$27.99",
+      "verdict": "Balanced adjustable alternative",
+      "category": "Over-ear fit",
+      "summary": "Harman-adjacent default; bass presets and EQ change the balance.",
+      "facts": {
+        "Sound": "Harman-adjacent default; bass presets and EQ change the balance.",
+        "Fit": "Over-ear; detachable cable. Reviewer found connector rubbed ear.",
+        "Tuning / app": "Default needs no app. Android Link EQ documented in 2024; current app/firmware untested.",
+        "Risk": "Amazon says in stock; direct Linsoul/ShenzhenAudio pages say preorder, no ETA.",
+        "Status": "In Stock",
+        "Variant": "Black",
+        "Independent sound detail": "Default DSP balanced/Harman-adjacent bass, with Basshead and No Bass alternatives; reviewer preferred default rather than assuming more bass is better. Default DSP alters response relative to analog original. Clean balanced vocal presentation is plausible from reviewed response, but no blind controlled preference result. Adjustable with five filters; no basis to copy analog Chu II treble ratings. ASR commenter wanted more air, subjective not universal. Low measured distortion even with PEQ, good channel match apart from small bass mismatch. High-frequency coupler data should not be treated as exact in-ear treble.",
+        "Fit evidence": "Over-ear shell, detachable 2-pin cable. Reviewer found connector rubbed ear and One DSP more comfortable. No matched isolation measurement retrieved.",
+        "App evidence": "Plays default without app; Android Link 2.0 offered 5 filters in Apr 2024 (40 Hz minimum, -12 to +3 dB, Q 0.1–10). Historical limits, not verified current firmware. App bugs discussed Jul 2024, some resolved by direct latest APK. Do not claim current iOS/desktop support absent model-specific verification.",
+        "Noise evidence": "No robust hiss measurement retrieved. ASR user Jimbob54 Jul 19 2024 reports brief loud playback-start transient with UAPP hardware volume on Chu II DSP and Jiu, not other dongles; single host/driver-specific report, NOT universal hiss. Check quietly before in-ear use on UAPP.",
+        "Durability evidence": "Detachable cable improves replaceability; review says cable cheap/tangles and mic poor. Replaceable filters/nozzle confirmed on retailer; this is repairability, not lifetime proof. Nozzle corrosion anecdotes should not become model-wide measured failure claim.",
+        "Host caution": "One ASR user reported a loud start transient with UAPP hardware volume. Host-specific anecdote, not universal hiss; test quietly before in-ear use."
+      },
+      "images": [
+        {
+          "src": "assets/images/b0crp76pvm-01.jpg",
+          "alt": "Moondrop CHU II DSP · retailer slide 1. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/61t365d2VfL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0crp76pvm-02.jpg",
+          "alt": "Moondrop CHU II DSP · retailer slide 2. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/51lphl3qljL._AC_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0crp76pvm-03.jpg",
+          "alt": "Moondrop CHU II DSP · retailer slide 3. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/515Z8HoAowL._AC_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0crp76pvm-04.jpg",
+          "alt": "Moondrop CHU II DSP · retailer slide 4. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/41BVrroasJL._AC_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0crp76pvm-05.jpg",
+          "alt": "Moondrop CHU II DSP · retailer slide 5. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/51RXINWj+jL._AC_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0crp76pvm-06.jpg",
+          "alt": "Moondrop CHU II DSP · retailer slide 6. Lifestyle photo obscures phone-end connector; cannot establish interface from this image alone. Other gallery photos show USB-C.",
+          "sourceURL": "https://m.media-amazon.com/images/I/516H56d5mrL._AC_.jpg",
+          "note": "Lifestyle photo obscures phone-end connector; cannot establish interface from this image alone. Other gallery photos show USB-C."
+        },
+        {
+          "src": "assets/images/b0crp76pvm-07.jpg",
+          "alt": "Moondrop CHU II DSP · retailer slide 7. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/51XaFQ2kv5L._AC_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        },
+        {
+          "src": "assets/images/b0crp76pvm-08.jpg",
+          "alt": "Moondrop CHU II DSP · retailer slide 8. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+          "sourceURL": "https://m.media-amazon.com/images/I/61aYqVSsqGL._AC_SL1500_.jpg",
+          "note": "Retailer product gallery; technical graphics are manufacturer claims, not our tests."
+        }
+      ],
+      "image": "assets/images/b0crp76pvm-01.jpg",
+      "imageAlt": "Moondrop CHU II DSP · retailer slide 1. Retailer product gallery; technical graphics are manufacturer claims, not our tests.",
+      "imageNote": "All exposed exact-ASIN stills retained except unrelated JBL category diagram and blue-color slide. Shared analog/USB-C diagrams do not mean both cables are included. Slide 6: Lifestyle photo obscures phone-end connector; cannot establish interface from this image alone. Other gallery photos show USB-C.",
+      "sources": [
+        "offer-B0CRP76PVM",
+        "chu_measurement"
+      ],
+      "integrityRank": 0,
+      "naturalPercent": null
+    }
+  ],
+  "sources": [
+    {
+      "id": "chu_measurement",
+      "url": "https://www.audiosciencereview.com/forum/index.php?threads/moondrop-chu-ii-dsp-eq-review.53470/",
+      "title": "Jerome O’Flaherty (ASR member Jeromeof, not an Amir/ASR lab review) — chu measurement",
+      "type": "Independent review",
+      "note": "2024-04-01; edited 2024-04-02 · Purchased unit; 711-clone measurements, DSP profile comparisons and listening · Same author as Pragmatic Audio; not independent corroboration if cited twice"
+    },
+    {
+      "id": "quark_pragmatic",
+      "url": "https://www.pragmaticaudio.com/reviews/2024/08/moondrop-quark2-review/",
+      "title": "Jerome O’Flaherty — quark pragmatic",
+      "type": "Independent review",
+      "note": "2024-08-22 · 711-clone measurements and listening; supplied review unit · Listening used large foam tips and added treble EQ, NOT untouched stock sound"
+    },
+    {
+      "id": "quark_ichos",
+      "url": "https://ichos-reviews.com/moondrop-quark-2-review/",
+      "title": "Petros Laskis — quark ichos",
+      "type": "Independent review",
+      "note": "2024-09-18 updated · Listening review; supplied sample; says no monetary compensation or affiliate links"
+    },
+    {
+      "id": "one_pragmatic",
+      "url": "https://www.pragmaticaudio.com/reviews/2024/02/tanchjim-one-dsp/",
+      "title": "Jerome O’Flaherty — one pragmatic",
+      "type": "Independent review",
+      "note": "2024-02-04 · Purchased DSP unit; measurements of analog and multiple DSP presets; listening mainly Popular preset · Text inconsistently calls Harman comparison Balanced after identifying Popular; use named graph/profile carefully. Do not repeat speculative driver-count causation or universal distortion audibility thresholds."
+    },
+    {
+      "id": "quark_tpu",
+      "url": "https://www.techpowerup.com/review/quick-look-moondrop-quark2-type-c-in-ear-monitors/",
+      "title": "VSG / TechPowerUp — quark tpu",
+      "type": "Independent review",
+      "note": "2024-11-15 · Supplied sample via ShenzhenAudio; measured USB-C product and listening; exact variant"
+    },
+    {
+      "id": "tanya_androidbrick",
+      "url": "https://androidbrick.com/tanchjim-tanya-dsp-review/",
+      "title": "Androidbrick/maDog — tanya androidbrick",
+      "type": "Independent review",
+      "note": "2023-05-18 · Listening; Tanchjim supplied sample. Separate listening sections from introductory manufacturer copy."
+    },
+    {
+      "id": "jd1_ichos",
+      "url": "https://ichos-reviews.com/fiio-jd1-review/",
+      "title": "Petros Laskis — jd1 ichos",
+      "type": "Independent review",
+      "note": "2024-05-21 updated · Explicit Type-C version listening; supplied sample; no monetary compensation/affiliate links"
+    },
+    {
+      "id": "bunny_pragmatic",
+      "url": "https://www.pragmaticaudio.com/reviews/2025/07/tanchjim-bunny-iem-with-dsp/",
+      "title": "Jerome O’Flaherty — bunny pragmatic",
+      "type": "Independent review",
+      "note": "2025-07-23 · Purchased DSP unit, months use, measurements of exact DSP presets · Some causal claims repeat engineering marketing; do not use them as evidence. Header 4-star versus body 5-star rating inconsistency; avoid numeric score."
+    },
+    {
+      "id": "bunny_g_mobile",
+      "url": "https://mobileaudiophile.com/in-ear-earphones-iem-iems-reviews/tanchjim-bunny/",
+      "title": "bunny_g_mobile — bunny g mobile",
+      "type": "Independent review",
+      "note": "2026-10-24 from datePublished JSON-LD (page header current date is not publication date) · Supplied sample, subjective listening of default DSP; no independent measurements read · Very enthusiastic single review; not proof all treble-sensitive listeners will like it; app all-platform claim not independently exercised"
+    },
+    {
+      "id": "ultima_analog_unclear",
+      "url": "https://nobordersaudiophile.wordpress.com/2025/03/11/tanchjim-zero-ultima-budget-refinement/",
+      "title": "No Borders Audiophile / rikfictif — ultima analog unclear",
+      "type": "Independent review",
+      "note": "2025-03-11 · Listening, exact termination not established; discussion of balanced output suggests analog · NOT used to assign USB-C tuning. Avoid silently importing the smooth vocal-centric conclusions into DSP version."
+    },
+    {
+      "id": "offer-B0DBLQ4DBD",
+      "url": "https://www.amazon.com/dp/B0DBLQ4DBD",
+      "title": "Amazon · exact selected B0DBLQ4DBD",
+      "type": "Retailer verification",
+      "note": "2026-11-07T11:25:55-05:00 · Gray · In Stock · Sold by LEAUDIO; ships from Amazon. Shipping/tax not quoted. Signed-out ZIP-level offer, not account/address/Prime verified."
+    },
+    {
+      "id": "offer-B0DTTTF2KX",
+      "url": "https://www.amazon.com/dp/B0DTTTF2KX",
+      "title": "Amazon · exact selected B0DTTTF2KX",
+      "type": "Retailer verification",
+      "note": "2026-11-07T11:25:55-05:00 · Silver · In Stock · Sold by TANCHJIM; ships from Amazon. Shipping/tax not quoted. Signed-out ZIP-level offer, not account/address/Prime verified."
+    },
+    {
+      "id": "offer-B0DRYYKSDK",
+      "url": "https://www.amazon.com/dp/B0DRYYKSDK",
+      "title": "Amazon · exact selected B0DRYYKSDK",
+      "type": "Retailer verification",
+      "note": "2026-11-07T11:25:55-05:00 · DSP Type C (retailer color label; clear shell) · In Stock · Sold by TANCHJIM; ships from Amazon. Shipping/tax not quoted. Signed-out ZIP-level offer, not account/address/Prime verified."
+    },
+    {
+      "id": "offer-B0CT9PYXGY",
+      "url": "https://www.amazon.com/dp/B0CT9PYXGY",
+      "title": "Amazon · exact selected B0CT9PYXGY",
+      "type": "Retailer verification",
+      "note": "2026-11-07T11:25:55-05:00 · Black · In Stock · Sold by Amazon.com; ships from Amazon.com. Shipping/tax not quoted. Signed-out ZIP-level offer, not account/address/Prime verified."
+    },
+    {
+      "id": "offer-B0BQVLYHX7",
+      "url": "https://www.amazon.com/dp/B0BQVLYHX7",
+      "title": "Amazon · exact selected B0BQVLYHX7",
+      "type": "Retailer verification",
+      "note": "2026-11-07T11:25:55-05:00 · White · Only 18 left in stock · Sold by Linsoul Audio; ships from Amazon. Shipping/tax not quoted. Signed-out ZIP-level offer, not account/address/Prime verified."
+    },
+    {
+      "id": "offer-B0CRP76PVM",
+      "url": "https://www.amazon.com/dp/B0CRP76PVM",
+      "title": "Amazon · exact selected B0CRP76PVM",
+      "type": "Retailer verification",
+      "note": "2026-11-07T11:25:55-05:00 · Black · In Stock · Sold by SHENZHENAUDIO; ships from Amazon. Shipping/tax not quoted. Signed-out ZIP-level offer, not account/address/Prime verified."
+    },
+    {
+      "id": "expansion-community-0-0",
+      "url": "https://www.reddit.com/r/HeadphoneAdvice/comments/17pau42/any_good_usbc_headphone_under_40/",
+      "title": "r/HeadphoneAdvice · thread read",
+      "type": "Community anecdote",
+      "note": "One exact ONE DSP recommendation; much adapter advice. General 2024 thread mostly wired-vs-wireless discussion, no model-specific sound winner. Bounded sample, not consensus."
+    },
+    {
+      "id": "expansion-community-0-1",
+      "url": "https://www.reddit.com/r/HeadphoneAdvice/comments/1b8txsq/advice_of_wired_usbc_earbuds/",
+      "title": "r/HeadphoneAdvice · thread read",
+      "type": "Community anecdote",
+      "note": "One exact ONE DSP recommendation; much adapter advice. General 2024 thread mostly wired-vs-wireless discussion, no model-specific sound winner. Bounded sample, not consensus."
+    },
+    {
+      "id": "expansion-community-0-2",
+      "url": "https://www.reddit.com/r/HeadphoneAdvice/comments/1diat9e/in_ear_wired_usbc_headphone_recommendations/",
+      "title": "r/HeadphoneAdvice · thread read",
+      "type": "Community anecdote",
+      "note": "One exact ONE DSP recommendation; much adapter advice. General 2024 thread mostly wired-vs-wireless discussion, no model-specific sound winner. Bounded sample, not consensus."
+    },
+    {
+      "id": "expansion-community-1-0",
+      "url": "https://www.reddit.com/r/iems/comments/16t9db1/tanchjim_one_the_pun_writes_itself/",
+      "title": "r/iems · thread read",
+      "type": "Community anecdote",
+      "note": "Important analog-versus-DSP tuning distinction; mixed cable reliability; iPhone17 compatibility anecdote, not universal assurance. Bounded sample, not consensus."
+    },
+    {
+      "id": "expansion-community-2-0",
+      "url": "https://www.reddit.com/r/inearfidelity/comments/1eme7kq/moondrop_quark_2/",
+      "title": "r/inearfidelity · thread read",
+      "type": "Community anecdote",
+      "note": "Quark2 owners give mixed comfort and modest sound feedback, two volume complaints. Bounded sample, not consensus."
+    },
+    {
+      "id": "expansion-community-3-0",
+      "url": "https://www.reddit.com/r/headphones/comments/107601a/quarks_dsp_vs_salnotes_zero_usbc_version/",
+      "title": "r/headphones · thread read",
+      "type": "Community anecdote",
+      "note": "Original Quarks DSP versus Salnotes Zero USB-C listening comparison, and Tanchjim Zero USB-C alternative plus linked measurements. Bounded sample, not consensus."
+    },
+    {
+      "id": "expansion-resource-0",
+      "url": "https://www.reddit.com/r/HeadphoneAdvice/wiki/index/",
+      "title": "www.reddit.com/r/HeadphoneAdvice/wiki/index/",
+      "type": "Resource inaccessible",
+      "note": " Only Reddit title/text shell, no usable body/links"
+    },
+    {
+      "id": "expansion-resource-1",
+      "url": "https://www.reddit.com/r/headphones/wiki/index/",
+      "title": "www.reddit.com/r/headphones/wiki/index/",
+      "type": "Resource inaccessible",
+      "note": " Only Reddit title/text shell, no usable body/links"
+    },
+    {
+      "id": "expansion-resource-2",
+      "url": "https://www.reddit.com/r/iems/about/",
+      "title": "www.reddit.com/r/iems/about/",
+      "type": "Resource inaccessible",
+      "note": " Only Reddit title/text shell, no usable body/links"
+    },
+    {
+      "id": "expansion-resource-3",
+      "url": "https://www.reddit.com/r/inearfidelity/about/",
+      "title": "www.reddit.com/r/inearfidelity/about/",
+      "type": "Resource inaccessible",
+      "note": " Only Reddit title/text shell, no usable body/links"
+    },
+    {
+      "id": "expansion-resource-4",
+      "url": "https://www.reddit.com/r/headphones/wiki/headphones/",
+      "title": "www.reddit.com/r/headphones/wiki/headphones/",
+      "type": "Resource inaccessible",
+      "note": " Only Reddit title/text shell, no usable body/links"
+    },
+    {
+      "id": "expansion-resource-5",
+      "url": "https://www.reddit.com/r/headphones/wiki/glossary/",
+      "title": "www.reddit.com/r/headphones/wiki/glossary/",
+      "type": "Resource inaccessible",
+      "note": " Only Reddit title/text shell, no usable body/links"
+    },
+    {
+      "id": "expansion-resource-6",
+      "url": "https://www.reddit.com/r/headphones/wiki/index/",
+      "title": "www.reddit.com/r/headphones/wiki/index/",
+      "type": "Resource inaccessible",
+      "note": " No archive copy recovered."
+    },
+    {
+      "id": "expansion-resource-7",
+      "url": "https://crinacle.com/rankings/iems/",
+      "title": "crinacle.com/rankings/iems/",
+      "type": "Resource read",
+      "note": "Pure sonic ranking excludes fit/durability unless sound affected. Explicitly one person’s opinion; not gospel, recommends audition. MSRP not current sale price; do not infer current USB-C purchase winner from analog rows. Ranking methodology/disclaimers and table text retrieved; used for methodology and community relationship, not current DSP variant ranking"
+    },
+    {
+      "id": "expansion-resource-8",
+      "url": "https://crinacle.com/2020/04/08/graphs-101-how-to-read-headphone-measurements/",
+      "title": "crinacle.com/2020/04/08/graphs-101-how-to-read-headphone-measurements/",
+      "type": "Resource read",
+      "note": "Frequency response expresses relative loudness and tuning, not a universal taste ranking. Raw flat line is not perceptually neutral; targets and measuring systems matter. Normalization/scaling can change visual comparison. Article text inspected; did not visually analyze plotted images."
+    },
+    {
+      "id": "expansion-resource-9",
+      "url": "https://www.l7audiolab.com/f/tanchjim-zero-dsp/",
+      "title": "www.l7audiolab.com/f/tanchjim-zero-dsp/",
+      "type": "Resource read",
+      "note": "Article specifically tests cut-cable DAC electronics of Tanchjim Zero DSP, not complete acoustic frequency response. Confirms Type-C, microphone, built-in EQ; author calls electrical performance ordinary but impressive considering price/function. Text read; image graphs not visually evaluated; do not treat as headphone sonic rank."
+    },
+    {
+      "id": "expansion-resource-10",
+      "url": "https://www.audiosciencereview.com/forum/index.php?threads/tanchjim-one-iem-review.50793/",
+      "title": "www.audiosciencereview.com/forum/index.php?threads/tanchjim-one-iem-review.50793/",
+      "type": "Resource read",
+      "note": "Amir recommends Tanchjim One after stock/EQ tests. Specifications explicitly 3.5mm; reviewer says alternate cable was not tried. Thus cannot transfer measurements/listening verdict to ONE DSP tuning. No archive copy recovered."
+    },
+    {
+      "id": "expansion-watch-one",
+      "url": "https://shenzhenaudio.com/products/tanchjim-one-in-ear-headphone?variant=43853042581747",
+      "title": "Watchlist · Tanchjim ONE DSP — sold out at verified direct store",
+      "type": "Unavailable, not a purchase finalist",
+      "note": "Strongest lead in the small Reddit sample; no active exact-DSP under-$40 stock verified. Analog ONE reviews do not establish DSP tuning."
+    },
+    {
+      "id": "expansion-one-review",
+      "url": "https://www.pragmaticaudio.com/reviews/2024/02/tanchjim-one-dsp/",
+      "title": "ONE DSP · independent preset measurements/review",
+      "type": "Watchlist evidence",
+      "note": "Purchased DSP unit; historical profiles. No current stock established."
+    }
+  ]
+}
